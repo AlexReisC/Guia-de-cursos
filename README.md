@@ -1,17 +1,17 @@
 <h1>Guia de conteúdos para o curso de Ciência da Computação</h1>
 <p>Aqui quero compartilhar (e guardar para mim) links para cursos, artigos e livros sobre as disciplinas do curso de CC.</p>
-<p>Todos os direitos reservados aos donos/produtores dos materiais.</p>
+<p>&copy; Todos os direitos reservados aos donos/produtores dos materiais.</p>
 <h2>1º Semestre</h2>
 <ul>
-<li>Algebra Vetorial e Geometria Analitica
-<li>Calculo Diferencial e Integral I
-<li>Fundamentos da Matemática Discreta
-<li>Introdução a Ciência da Computação
-<li>Introdução a Programação
+  <li>Algebra Vetorial e Geometria Analitica</li>
+  <li>Calculo Diferencial e Integral I</li>
+  <li>Fundamentos da Matemática Discreta</li>
+  <li>Introdução a Ciência da Computação</li>
+  <li>Introdução a Programação</li>
 </ul>
 <h2>2º Semestre</h2>
 <ul>
-<li>Algebra Linear
+  <li>Algebra Linear</li>
 <li>Algoritmos e Estruturas de Dados I
 <li>Calculo Diferencial e Integral II
 <li>Lógica Aplicada a Programação
