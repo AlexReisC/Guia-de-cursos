@@ -13,7 +13,7 @@ Aqui quero compartilhar (e guardar para mim) links para cursos, artigos e livros
 
 ## 2º Semestre
 
-- [Algebra Linear]
+
 - [Algoritmos e Estruturas de Dados I]
 - [Calculo Diferencial e Integral II]
 - [Lógica Aplicada a Programação]
@@ -41,3 +41,25 @@ Aqui quero compartilhar (e guardar para mim) links para cursos, artigos e livros
 ## 8º Semestre
 
 ## Materiais Complementares
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- [Algebra Linear]
