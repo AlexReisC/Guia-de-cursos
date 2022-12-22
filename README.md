@@ -4,8 +4,7 @@ Aqui quero compartilhar (e guardar para mim) links para cursos, artigos e livros
 
 ## 1º Semestre
 
-- [Algebra Linear](#-algebra-linear) <br>
-- [Algebra Vetorial e Geometria Analitica]
+- [Algebra Vetorial e Geometria Analitica] <br>
 - [Calculo Diferencial e Integral I]
 - [Fundamentos da Matemática Discreta]
 - [Introdução a Ciência da Computação]
@@ -13,7 +12,7 @@ Aqui quero compartilhar (e guardar para mim) links para cursos, artigos e livros
 
 ## 2º Semestre
 
-
+- [Algebra Linear]
 - [Algoritmos e Estruturas de Dados I]
 - [Calculo Diferencial e Integral II]
 - [Lógica Aplicada a Programação]
@@ -39,46 +38,3 @@ Aqui quero compartilhar (e guardar para mim) links para cursos, artigos e livros
 ## 6º Semestre
 ## 7º Semestre
 ## 8º Semestre
-
-## Materiais Complementares
-uadv  
-uuydv  
-uku  
-ilou  
-tui  
-qav  
-asgoioiut  
-jeuu  
-6e  
-rthh  
-5  
-il
-
-yj  
-rh  
-hy  
-
-gtgtr  
-rf  
-f
-
-wrf  
-d  
-ds  
-hnhm  
-iloil  
-çpg  
-asxa  
-acfqr  
-vbrt  
-rb
-
-tynbt  
-nu  
-tjuy5mium  
-rymy  
-cervcr  
-myrmyr
-
-klmk  
-[Algebra Linear]
