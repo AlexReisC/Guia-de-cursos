@@ -4,7 +4,7 @@ Aqui quero compartilhar (e guardar para mim) links para cursos, artigos e livros
 
 ## 1º Semestre
 
-- [Algebra Linear](#-algebra-linear)
+- [Algebra Linear](#-algebra-linear) <br>
 - [Algebra Vetorial e Geometria Analitica]
 - [Calculo Diferencial e Integral I]
 - [Fundamentos da Matemática Discreta]
@@ -81,4 +81,4 @@ cervcr
 myrmyr
 
 klmk  
-- [Algebra Linear]
+[Algebra Linear]
