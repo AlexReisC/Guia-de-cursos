@@ -1,4 +1,4 @@
-# Guia de conteúdos para o curso de Ciência da Computação
+# Guia de conteúdos/cursos de Ciência da Computação
 Aqui quero compartilhar (e guardar para mim) links para cursos, artigos e livros sobre as disciplinas do curso de CC.
 &copy; Todos os direitos reservados aos donos/produtores dos materiais.
 
